@@ -1,5 +1,4 @@
 # Project Navya 🚗
-**Team Lead:** Sujal Negi  
 **Status:** In Development (Qualification Round - IRoC-U 2026)
 
 ## Overview
