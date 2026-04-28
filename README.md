@@ -14,4 +14,4 @@ Navya is an end-to-end autonomous driving system designed for the ISRO Robotics 
 * **Hardware:** Jetson Nano/Orin, LiDAR, Depth Cameras.
 
 ## Team
-Led by a 19-member multidisciplinary team from IIITDM Kurnool.
+Led by a 15+ members multidisciplinary team from IIITDM Kurnool.
